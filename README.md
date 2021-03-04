@@ -3,6 +3,6 @@
 To run tests:
    ```npm run test```  
 To install depenencies:
-   ```npm init```  
+   ```npm install```  
 To run the server:
    ```npm start```  
